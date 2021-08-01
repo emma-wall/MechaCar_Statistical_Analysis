@@ -2,6 +2,7 @@
 
 ## Linear Regression to Predict MPG
 I ran an lm test in R to look at predictibilty of mpg for Mecha Cars. 
+
 ``` lm(mpg~vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + ADW)```
 
 H0: Slope of the linear model is 0 and there is no correlation betweeen MPG and vehicle length, vehicle weight, spoiler angle, ground clearance and ADW. 
