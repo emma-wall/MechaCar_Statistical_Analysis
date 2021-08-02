@@ -38,3 +38,13 @@ Given a p-value of 0.61, we again we fail to reject the null hypothesis at a 0.0
 ![Screen Shot 2021-08-01 at 10 09 36 PM](https://user-images.githubusercontent.com/80648379/127795364-da2229e2-7a30-4afa-9f03-9c894d0d18e6.png)
 
 For Lot 3, we get a p-value of 0.042. We can reject the null hypothesis at a 0.05 signifigance level, which means there is a statistical difference between the PSI Lot 3 mean and the PSI population mean of 1500. 
+
+## Study Design: MechaCar vs Competition
+
+One of the most important aspects of a car is its safety ratings. We can look at IIHS ratings to determine the safety of MechaCars compared to other car manufacturers. IIHS preforms 6 tests that determine the overall safety of a car. To preform an analysis we would need the IIHS ratings for multiple companies. 
+
+We could preform a one-way ANOVA test to look at the IIHS ratings of different cars based on manufacturer. In this analysis, the null and hypotheses would be as follows. 
+
+H0: The mean safety ratings of all companies are equal
+Ha: At least one of the mean safety ratings  is different from all the other companies. 
+
