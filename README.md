@@ -31,6 +31,7 @@ For Lot 1, the p-value is 1, which means that we cannot reject the null hypothes
 
 ### Lot 2
 ![Screen Shot 2021-08-01 at 9 46 26 PM](https://user-images.githubusercontent.com/80648379/127794929-8a86e4b0-48d7-406d-928e-a47a4e9671d0.png)
+
 Given a p-value of 0.61, we again we fail to reject the null hypothesis at a 0.05 significance level. The Lot 2 mean and population mean of 1,500 are statistically similar. 
 
 ### Lot 3
